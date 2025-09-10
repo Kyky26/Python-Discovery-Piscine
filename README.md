@@ -1,4 +1,4 @@
-There are a total of 46 exercises for this discovery piscine.
+There are a total of 46 exercises for this Python Discovery Piscine.
 
 Total: 46
 
