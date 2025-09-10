@@ -6,7 +6,7 @@
 cell00 is mainly on creation of directory and print() function.
 
 cell00: There are 3 exercises.
-- ex00: Creation of the required directories
+- ex00: Creation of the required directories, ignore the hello.py file uploaded here, it is to allow the creation of the ex00 folder.
 - ex01: 42.py
 - ex02: hello_world.py
 
